@@ -19,7 +19,7 @@ My Ph.D. thesis focuses on developing computationally efficient Bayesian methods
 
 I am fortunate to have collaborated with [Prof. Himel Mallick](http://www.himelmallick.org/) from Weill Cornell Medicine as a research assistant during the summer of 2024. At [Mallick Lab](https://mallicklab.weill.cornell.edu/), my research spans two key areas. First, I have developed comprehensive pipeline for multi-study meta-analysis of microbiome networks, applying it to real-world microbiome data consisting of cancer immunotherapy responses. Secondly, I have devised scalable Bayesian methods for multimodal integration, benchmarking them using real-world multi-omics data.  
 
-Before coming to Iowa, I graduated with Master's in Statistics from [Indian Institute of Technology (IIT) Kanpur](https://www.iitk.ac.in/math/) in 2021, and Bachelor's in Statistics (Honours) from St. Xavier's College (Autonomous), Kolkata in 2019.
+Before coming to Iowa, I graduated with Master's in Statistics from [Indian Institute of Technology (IIT) Kanpur](https://www.iitk.ac.in/math/) in 2021, and Bachelor's in Statistics (Honours) from [St. Xavier's College (Autonomous), Kolkata](https://sxccal.edu/department-of-statistics) in 2019.
 
 ---
 

@@ -22,7 +22,7 @@ contact_note: >
 
 lang: en
 icon: 📊
-
+third_party_libraries: {}
 url: "https://sreyasarkar21.github.io"
 baseurl: ""
 
@@ -44,8 +44,10 @@ footer_fixed: true
 # -----------------------------------------------------------------------------
 
 collections:
-  projects:
+  pages:
     output: true
+    permalink: /:path/
+
 
 # -----------------------------------------------------------------------------
 # Plugins

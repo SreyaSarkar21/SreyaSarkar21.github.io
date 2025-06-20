@@ -2,6 +2,7 @@
 layout: about
 title: "About"
 permalink: /
+author_profile: true
 
 profile:
   align: right
@@ -10,7 +11,12 @@ profile:
   more_info: >
     <p>Email: sreya-sarkar@uiowa.edu</p>
 
+selected_papers: false
 social: true
+announcements:
+  enabled: false
+latest_posts:
+  enabled: false
 
 ---
 

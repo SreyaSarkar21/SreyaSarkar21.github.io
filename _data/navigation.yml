@@ -4,3 +4,9 @@
 - title: "CV"
   url: /assets/files/cv.pdf
   external: true
+
+- title: "Publications"
+  url: /publications/
+
+- title: "Teaching"
+  url: /teaching/

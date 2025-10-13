@@ -15,8 +15,8 @@ author:
   email: sreya-sarkar@uiowa.edu
   github: SreyaSarkar21
   linkedin: sreya-sarkar-6448231a0
-  # scholar: your-google-scholar-id
-  cv: /assets/files/cv.pdf
+  scholar: KrBHVkMAAAAJ
+  cv: /assets/files/CV_SreyaSarkar.pdf
 contact_note: >
   Alternate email: sreyasarkar1998@gmail.com
 
@@ -54,14 +54,14 @@ collections:
 # -----------------------------------------------------------------------------
 
 plugins:
-  - jekyll-feed
+#  - jekyll-feed for blog posts
   - jekyll-sitemap
   - jekyll/scholar
-  - jemoji
-  - jekyll-toc
+#  - jemoji for emojis
+#  - jekyll-toc for auto table of contents in teaching notes or RS
   - jekyll-link-attributes
   - jekyll-minifier
-  - jekyll-terser
+#  - jekyll-terser
   - jekyll-imagemagick
 
 # -----------------------------------------------------------------------------

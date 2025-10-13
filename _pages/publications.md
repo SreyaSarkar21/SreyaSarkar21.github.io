@@ -17,7 +17,7 @@ nav_order: 2
 ## Under Preparation
 
 - **Multi-study Meta-Analysis of Differential Microbiome Networks**  
-  *Sarkar, S.*, Roy, S., Xinyang Zhang, Ali Rahanavard, Mallick, H. (2025+)
+  *Sarkar, S.*, Roy, S., Zhang X., Rahanavard A., Mallick, H. (2025+)
 
 <!--
 ## Preprints

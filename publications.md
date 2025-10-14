@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: Publications/Preprints
 nav: true
 nav_order: 2
 ---
@@ -9,19 +9,27 @@ nav_order: 2
 <div class="publications">
 
 <!-- Submission Section -->
-## <span style="color:#2064a9;">- In Submission</span>
 
-**2025+** <strong>Sarkar, S.</strong>, Khare, K., Srivastava, S., Bayesian Compressed Mixed-Effects Models, <a href="https://arxiv.org/abs/2507.16961" target="_blank">arXiv</a>.
+### In Submission
 
-**2025+** Roy, S.*, <strong>Sarkar, S.*</strong>, Paul E., Basak P., Yi N., Mallick, H., Bayesian Cooperative Learning for Multimodal Integration. <span style="font-size:95%"><em>* These authors contributed equally.</em></span>
+- **Sarkar, S.**, Khare, K., Srivastava, S.  
+  *Bayesian Compressed Mixed-Effects Models*. [arXiv:2507.16961](https://arxiv.org/abs/2507.16961)
 
-## <span style="color:#2064a9;">- In Preparation</span>
+- Roy, S.\*, **Sarkar, S.\***, Paul E., Basak P., Yi N., Mallick, H.  
+  *Bayesian Cooperative Learning for Multimodal Integration*.  
+  <small>\* These authors contributed equally.</small>
 
-**2025+** <strong>Sarkar, S.</strong>, Khare, K., Srivastava, S., Bayesian Array-variate Compressed Mixed Models.
+### In Preparation
 
-**2025+** <strong>Sarkar, S.</strong>, Roy, S., Zhang, X., Rahanavard, A., Mallick, H., Multi-study Meta-Analysis of Differential Microbiome Networks.
+- **Sarkar, S.**, Khare, K., Srivastava, S.  
+  *Bayesian Array-variate Compressed Mixed Models*
 
-**2025+** Roy, S., <strong>Sarkar, S.</strong>, Banerjee, C., Mallick, H., Conformalized Multiview Learning.
+- **Sarkar, S.**, Roy, S., Zhang, X., Rahanavard, A., Mallick, H.  
+  *Multi-study Meta-Analysis of Differential Microbiome Networks*
+
+- Roy, S., **Sarkar, S.**, Banerjee, C., Mallick, H.  
+  *Conformalized Multiview Learning*
+
 
 </div>
 

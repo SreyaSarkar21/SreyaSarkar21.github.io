@@ -1,38 +1,27 @@
-
 ---
 layout: page
-title: "Publications"
 permalink: /publications/
+title: Publications
 nav: true
 nav_order: 2
 ---
 
-<h3 style="color:#336699;">- In Submission</h3>
-<ul>
-  <li>
-    <strong>Sarkar, S.</strong>, Khare, K., Srivastava, S. (2025+).
-    Bayesian Compressed Mixed-Effects Models.
-    <a href="https://arxiv.org/abs/2507.16961" target="_blank">arXiv</a>.
-  </li>
-  <li>
-    Roy, S.<sup>*</sup>, <strong>Sarkar, S.<sup>*</sup></strong>, Paul E., Basak P., Yi N., Mallick, H. (2025+).
-    Bayesian Cooperative Learning for Multimodal Integration.
-    <br><small><sup>*</sup> These authors contributed equally.</small>
-  </li>
-</ul>
+<div class="publications">
 
-<h3 style="color:#336699;">- In Preparation</h3>
-<ul>
-  <li>
-    <strong>Sarkar, S.</strong>, Khare, K., Srivastava, S. (2025+).
-    Bayesian Array-variate Compressed Mixed Models.
-  </li>
-  <li>
-    <strong>Sarkar, S.</strong>, Roy, S., Zhang, X., Rahanavard, A., Mallick, H. (2025+).
-    Multi-study Meta-Analysis of Differential Microbiome Networks.
-  </li>
-  <li>
-    Roy, S., <strong>Sarkar, S.</strong>, Banerjee, C., Mallick, H. (2025+).
-    Conformalized Multiview Learning.
-  </li>
-</ul>
+<!-- Submission Section -->
+## <span style="color:#2064a9;">- In Submission</span>
+
+**2025+** <strong>Sarkar, S.</strong>, Khare, K., Srivastava, S., Bayesian Compressed Mixed-Effects Models, <a href="https://arxiv.org/abs/2507.16961" target="_blank">arXiv</a>.
+
+**2025+** Roy, S.*, <strong>Sarkar, S.*</strong>, Paul E., Basak P., Yi N., Mallick, H., Bayesian Cooperative Learning for Multimodal Integration. <span style="font-size:95%"><em>* These authors contributed equally.</em></span>
+
+## <span style="color:#2064a9;">- In Preparation</span>
+
+**2025+** <strong>Sarkar, S.</strong>, Khare, K., Srivastava, S., Bayesian Array-variate Compressed Mixed Models.
+
+**2025+** <strong>Sarkar, S.</strong>, Roy, S., Zhang, X., Rahanavard, A., Mallick, H., Multi-study Meta-Analysis of Differential Microbiome Networks.
+
+**2025+** Roy, S., <strong>Sarkar, S.</strong>, Banerjee, C., Mallick, H., Conformalized Multiview Learning.
+
+</div>
+

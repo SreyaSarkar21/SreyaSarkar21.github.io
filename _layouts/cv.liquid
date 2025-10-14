@@ -8,11 +8,7 @@ layout: default
         {{ page.title }}
         {% if page.cv_pdf %}
           <a
-            {% if page.cv_pdf contains '://' %}
-              href="{{ page.cv_pdf }}"
-            {% else %}
-              href="{{ page.cv_pdf | relative_url }}"
-            {% endif %}
+            href="{{ page.cv_pdf | relative_url }}"
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"
@@ -59,11 +55,7 @@ layout: default
         {{ page.title }}
         {% if page.cv_pdf %}
           <a
-            {% if page.cv_pdf contains '://' %}
-              href="{{ page.cv_pdf }}"
-            {% else %}
-              href="{{ page.cv_pdf | relative_url }}"
-            {% endif %}
+            href="{{ page.cv_pdf | relative_url }}"
             target="_blank"
             rel="noopener noreferrer"
             class="float-right"

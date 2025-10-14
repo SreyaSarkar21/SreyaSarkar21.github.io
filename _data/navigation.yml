@@ -1,12 +1,13 @@
 - title: "About"
   url: /
 
-- title: "CV"
-  url: /assets/files/CV_SreyaSarkar.pdf
-  external: true
-
 - title: "Publications"
   url: /publications/
 
 - title: "Teaching"
   url: /teaching/
+  
+- title: "CV"
+  url: /assets/files/CV_SreyaSarkar.pdf
+  external: true
+  new_window: true

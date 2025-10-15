@@ -92,7 +92,7 @@ imagemagick:
   output_formats:
     webp: "-quality 85"
 
-avatar: "/assets/img/prof_pic-800.webp"
+avatar: "/assets/img/prof_pic.jpeg"
 
 
 lazy_loading_images: true

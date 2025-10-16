@@ -6,10 +6,6 @@ nav: true
 nav_order: 2
 ---
 
-<div class="publications">
-
-<!-- Submission Section -->
-
 ### In Submission
 
 - **Sarkar, S.**, Khare, K., Srivastava, S.  
@@ -21,15 +17,12 @@ nav_order: 2
 
 ### In Preparation
 
-- **Sarkar, S.**, Khare, K., Srivastava, S.  
-  *Bayesian Array-variate Compressed Mixed Models*
+- **Sarkar, S.**, Khare, K., Srivastava, S. (2025+), *Bayesian Array-variate Compressed Mixed Models*
 
 - **Sarkar, S.**, Roy, S., Zhang, X., Rahanavard, A., Mallick, H.  
   *Multi-study Meta-Analysis of Differential Microbiome Networks*
 
-- Roy, S., **Sarkar, S.**, Banerjee, C., Mallick, H.  
-  *Conformalized Multiview Learning*
+- Roy, S., **Sarkar, S.**, Banerjee, C., Mallick, H., *Conformalized Multiview Learning*
 
 
-</div>
 

@@ -6,7 +6,7 @@ author_profile: true
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic-800.webp
   image_circular: true
   more_info: >
     <p>Email: sreya-sarkar@uiowa.edu</p>

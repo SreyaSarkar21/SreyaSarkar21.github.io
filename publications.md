@@ -8,9 +8,9 @@ nav_order: 2
 
 ### In Submission
 
-- **Sarkar, S.**, Khare, K., and Srivastava, S. (2025). Bayesian Compressed Mixed-Effects Models. [arXiv:2507.16961](https://arxiv.org/abs/2507.16961)
+- **Sarkar, S.**, Khare, K., and Srivastava, S. (2025). Bayesian Compressed Mixed-Effects Models. [arXiv](https://arxiv.org/abs/2507.16961)
 
-- Roy, S.\*, **Sarkar, S.\***, Paul E., Basak P., Yi N., and Mallick, H. (2025). Bayesian Cooperative Learning for Multimodal Integration.  
+- Roy, S.\*, **Sarkar, S.\***, Paul E., Basak P., Yi N., and Mallick, H. (2025). Bayesian Cooperative Learning for Multimodal Integration.[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.23.684056v1)  
   
 
 ### In Preparation

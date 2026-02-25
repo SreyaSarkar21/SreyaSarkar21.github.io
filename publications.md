@@ -8,19 +8,21 @@ nav_order: 2
 
 ### In Submission
 
-- **Sarkar, S.**, Khare, K., and Srivastava, S. (2025+). Bayesian Compressed Mixed-Effects Models. [arXiv](https://arxiv.org/abs/2507.16961)
+- **Sarkar, S.**, Khare, K., and Srivastava, S. (2026). CoMET: A Compressed Bayesian Mixed-Effects Model for High-Dimensional Tensors. [arXiv](https://arxiv.org/pdf/2602.19236)
 
-- Roy, S.\*, **Sarkar, S.\***, Paul E., Basak P., Yi N., and Mallick, H. (2025+). Bayesian Cooperative Learning for Multimodal Integration.[bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.23.684056v1)  
+- Roy, S., **Sarkar, S.**, Banerjee, C., and Mallick, H. (2026) Conformalized Multiview Learning. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.01.22.700165v1)
+
+- Roy, S.\*, **Sarkar, S.\***, Paul E., Basak P., Yi N., and Mallick, H. (2025). Bayesian Cooperative Learning for Multimodal Integration. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.23.684056v1)  
+
+- **Sarkar, S.**, Khare, K., and Srivastava, S. (2025). Bayesian Compressed Mixed-Effects Models. [arXiv](https://arxiv.org/pdf/2507.16961)
+
   
 
 ### In Preparation
 
-- **Sarkar, S.**, Khare, K., and Srivastava, S. (2025+). Bayesian Array-variate Compressed Mixed Models.
+- **Sarkar, S.**, Roy, S., Zhang, X., Rahanavard, A., and Mallick, H. Multi-study Meta-Analysis of Differential Microbiome Networks.
 
-- **Sarkar, S.**, Roy, S., Zhang, X., Rahanavard, A., and Mallick, H. (2025+) Multi-study Meta-Analysis of Differential Microbiome Networks.
-
-- Roy, S., **Sarkar, S.**, Banerjee, C., and Mallick, H. (2025+) Conformalized Multiview Learning.
-
+- **Sarkar, S.**, and Srivastava, S. Generalized Compressed Bayesian Mixed-Effects Model for High-Dimensional Tensors.
 
 
 <small>\* These authors contributed equally.</small>

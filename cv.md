@@ -7,6 +7,6 @@ cv_pdf: /assets/files/CV_SreyaSarkar.pdf
 permalink: /cv/
 ---
 
-[Download CV PDF](/assets/files/CV_SreyaSarkar.pdf){: download }
+[View CV PDF](/assets/files/CV_SreyaSarkar.pdf){: target = "_blank" }
 
 

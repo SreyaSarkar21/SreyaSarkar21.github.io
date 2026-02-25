@@ -68,7 +68,7 @@ plugins:
 # Scholar Settings (for Publications later)
 # -----------------------------------------------------------------------------
 
-#scholar:
+# scholar:
 #  last_name: [Sarkar]
 #  first_name: [Sreya]
 #  style: apa

@@ -99,5 +99,5 @@ lazy_loading_images: true
 
 external_links:
   enabled: true
-  rel: external nofollow noopener
+  rel: external noopener
   target: _blank

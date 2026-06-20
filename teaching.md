@@ -6,6 +6,14 @@ nav: true
 nav_order: 3
 ---
 
+### Graduate Student Instructor:
+
+<ul>
+  <li>Elementary Statistics and Inference <strong>(STAT 1020)</strong>, The University of Iowa, Summer 2026</li>
+</ul>
+
+---
+
 ### Teaching Assistant:
 
 <ul>

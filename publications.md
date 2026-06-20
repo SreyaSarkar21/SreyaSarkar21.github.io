@@ -14,7 +14,7 @@ nav_order: 2
 
 - Roy, S.\*, **Sarkar, S.\***, Paul E., Basak P., Yi N., and Mallick, H. (2025). "Bayesian Cooperative Learning for Multimodal Integration." *(Major Revision requested from <u>Journal of Computational and Graphical Statistics</u>)* [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.23.684056v1)  
 
-- **Sarkar, S.**, Khare, K., and Srivastava, S. (2025). "Bayesian Compressed Mixed-Effects Models." *(R&R requested from Journal of Machine Learning Research)* [arXiv](https://arxiv.org/pdf/2507.16961)
+- **Sarkar, S.**, Khare, K., and Srivastava, S. (2025). "Bayesian Compressed Mixed-Effects Models." *(R&R requested from <u>Journal of Machine Learning Research</u>)* [arXiv](https://arxiv.org/pdf/2507.16961)
 
   
 

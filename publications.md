@@ -8,9 +8,9 @@ nav_order: 2
 
 ### In Submission
 
-- **Sarkar, S.**, Khare, K., and Srivastava, S. (2026). CoMET: A Compressed Bayesian Mixed-Effects Model for High-Dimensional Tensors. [arXiv](https://arxiv.org/pdf/2602.19236)
+- **Sarkar, S.**, Khare, K., and Srivastava, S. (2026). ``CoMET: A Compressed Bayesian Mixed-Effects Model for High-Dimensional Tensors." *(Major Revision requested from <u>Bayesian Analysis</u>)* [arXiv](https://arxiv.org/pdf/2602.19236)
 
-- Roy, S., **Sarkar, S.**, Banerjee, C., and Mallick, H. (2026) Conformalized Multiview Learning. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.01.22.700165v1)
+- Roy, S.\*, **Sarkar, S.\***, Banerjee, C., Paul E., Basak P., and Mallick, H. (2026) Conformalized Multiview Learning. [bioRxiv](https://www.biorxiv.org/content/10.64898/2026.01.22.700165v1)
 
 - Roy, S.\*, **Sarkar, S.\***, Paul E., Basak P., Yi N., and Mallick, H. (2025). Bayesian Cooperative Learning for Multimodal Integration. [bioRxiv](https://www.biorxiv.org/content/10.1101/2025.10.23.684056v1)  
 
